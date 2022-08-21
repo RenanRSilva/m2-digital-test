@@ -16,7 +16,7 @@
       "price": 150
     }
   ],
-  "TV": [
+  "tv": [
     {
       "id": 1,
       "name": "Full HD",
@@ -28,7 +28,7 @@
       "price": 100
     }
   ],
-  "Fixo": [
+  "fixo": [
      {
       "id": 1,
       "name": "Ilimitado Fixo Brasil",
