@@ -1,5 +1,9 @@
 # m2-digital-test
 
+## Project setup with docker compose
+```
+docker-compose up
+```
 ## Project setup
 ```
 npm install
