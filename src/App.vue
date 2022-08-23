@@ -13,7 +13,7 @@
 		>
 		</internet-card-row>
 		<h1>TV</h1>
-		<p>Selecione um plano de internet para continuar</p>
+		<p>Selecione um plano de TV</p>
 		<tv-card-row
 			@update-selected-tv="setTv"
 			:internetIsSelected="internetIsSelected"
