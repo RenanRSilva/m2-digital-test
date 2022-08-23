@@ -1,38 +1,38 @@
 {
-  "internet": [
-    {
-      "id": 1,
-      "name": "100 MEGA",
-      "price": 80
-    },
-    {
-      "id": 2,
-      "name": "200 MEGA",
-      "price": 120
-    },
-    {
-      "id": 3,
-      "name": "300 MEGA",
-      "price": 150
-    }
-  ],
-  "tv": [
-    {
-      "id": 1,
-      "name": "Full HD",
-      "price": 70
-    },
-    {
-      "id": 2,
-      "name": "Ultimate HD",
-      "price": 100
-    }
-  ],
-  "fixo": [
-     {
-      "id": 1,
-      "name": "Ilimitado Fixo Brasil",
-      "price": 60
-    }
-  ]
+	"internet": [
+		{
+			"id": 1,
+			"name": "100 MEGA",
+			"price": 80
+		},
+		{
+			"id": 2,
+			"name": "200 MEGA",
+			"price": 120
+		},
+		{
+			"id": 3,
+			"name": "300 MEGA",
+			"price": 150
+		}
+	],
+	"tv": [
+		{
+			"id": 1,
+			"name": "Full HD",
+			"price": 70
+		},
+		{
+			"id": 2,
+			"name": "Ultimate HD",
+			"price": 100
+		}
+	],
+	"fixo": [
+		{
+			"id": 1,
+			"name": "Ilimitado Fixo Brasil",
+			"price": 60
+		}
+	]
 }
