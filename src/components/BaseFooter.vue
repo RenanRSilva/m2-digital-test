@@ -3,10 +3,10 @@
 		<div class="gray-line"></div>
 		<div class="footer-container">
 			<p>
-				<strong>Taxa de instalação</strong>
+				<strong class="installation-fee">Taxa de instalação</strong>
 			</p>
 			<p>
-				<strong>Gratis</strong>
+				<strong class="installation-fee">Gratis</strong>
 			</p>
 		</div>
 		<div class="footer-container">
@@ -75,6 +75,10 @@ p {
 	background-color: #a8a4a0;
 	margin-bottom: 1.6em;
 	margin-top: 1.6em;
+}
+
+.installation-fee {
+	color: #a8a4a0;
 }
 
 @media (max-width: 576px) {
